@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/SistemaFilasSupermercado.dir/src/main.c.o CMakeFiles/SistemaFilasSupermercado.dir/src/cliente.c.o CMakeFiles/SistemaFilasSupermercado.dir/src/caixa.c.o CMakeFiles/SistemaFilasSupermercado.dir/src/fila_prioridade.c.o CMakeFiles/SistemaFilasSupermercado.dir/src/utils.c.o -o SistemaFilasSupermercado 
